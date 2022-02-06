@@ -1,10 +1,7 @@
 ### Hi there 👋
+<!--
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dellink&theme=default)](https://github.com/dellink)
-
-
-
-<!--
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app?userID=3364662&layout=compact)](https://stackoverflow.com/users/3364662/dellink)
 
